@@ -1,0 +1,3 @@
+﻿name: DotNetOpenAuth
+version: 3.4.7.11121
+description: A C# library that adds OpenID 2.0 Provider and Relying Party, OAuth Consumer and Service Provider, and InfoCard Selector support to your web site both programmatically and through convenient drop-in ASP.NET controls.

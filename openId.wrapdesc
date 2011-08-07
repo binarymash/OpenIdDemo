@@ -1,0 +1,8 @@
+﻿name: openId
+depends: openwrap anchored content
+depends: nunit
+depends: dotnetopenauth
+depends: jquery
+depends: log4net
+depends: castle.core
+depends: castle.windsor

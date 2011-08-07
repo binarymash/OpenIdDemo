@@ -1,0 +1,4 @@
+﻿name: Castle.Windsor
+version: 2.5.3
+description: Castle Windsor is best of breed, mature Inversion of Control container available for .NET and Silverlight.
+depends: Castle.Core >= 2.5 and < 2.6
